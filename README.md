@@ -10,4 +10,4 @@ I build full-stack web apps, mobile applications, and interactive 3D experiences
 * **Frontend & Mobile:** React, React Native, Expo
 * **3D Web & Games:** Three.js, React Three Fiber (R3F), Drei, ecctrl
 * **Machine Learning & Data:** TensorFlow, PyTorch, NumPy, Scikit-learn
-* **Other Interests:** Photogrammetry, Blender Tooling, IoT, 3D Printing
+* **Other Interests:** Photogrammetry, Blender, IoT, 3D Printing
