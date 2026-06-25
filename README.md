@@ -1,6 +1,6 @@
 ### Hi, I'm Tom 👋
 
-I build full-stack web apps, mobile applications, and interactive 3D experiences. I'm the developer of [RotaHub](https://www.rotahub.co.uk), and I love bridging the gap between software and the physical world—from writing custom Blender add-ons to messing with IoT and 3D printing.
+I build full-stack web apps, mobile applications, and interactive 3D experiences. I'm the developer of [RotaHub](https://www.rotahub.co.uk), and I love bridging the gap between software and the physical world, from writing custom Blender add-ons to messing with IoT and 3D printing.
 
 ---
 
